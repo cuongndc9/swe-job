@@ -1,19 +1,7 @@
-# ✨ Software Engineers Jobs in Vietnam
+### SWE Job Vietnam » 👀 Tìm việc SWE/Dev/DevOps/Data/Product/Design tại Việt Nam 🇻🇳
 
-Discovering the **hottest Software Engineering jobs** in Vietnam! Stay ahead in your career with our **job updates** sourced directly from LinkedIn. 🔥
+Trang web tổng hợp các công việc trong ngành Công nghệ thông tin, tập trung vào các vị trí Software Engineering, Development, DevOps, Data, Product và Design tại thị trường Việt Nam.
 
-<img src="swejob.png" alt="swejob" style="width: 300px; display: block; margin: auto;" />
+**👉🏼 Tìm việc ngay tại [đây](https://swejob.netlify.app/)**.
 
-## 🌟 Key Features
-
-🔍 **Smart Job Search** – Find jobs effortlessly by keyword and location.  
-🔥 **Real-Time Updates** – Get the latest **Software Engineer** job listings.  
-💼 **LinkedIn Integration** – Reliable and comprehensive job postings.
-📌 **Notion Sync (Coming Soon)** – Save and track jobs seamlessly.
-
-## Exploring Now
-
-👉 [Visit SWE Jobs in Vietnam](https://swejob.netlify.app/) 👈  
-
-**Kickstart your career with Software Engineers Jobs in Vietnam!**
-
+![image](https://github.com/user-attachments/assets/a713fda2-87ab-4bb9-9a7c-d15d0bfdd035)
