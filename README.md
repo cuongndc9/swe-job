@@ -1,6 +1,6 @@
-### SWE Jobs VN 🇻🇳 » Việc xịn cho Dev/Data/Product/Design
+### SWE Jobs VN 🇻🇳
 
-Trang web tổng hợp các công việc trong ngành Công nghệ thông tin, tập trung vào các vị trí Software Engineering, Development, DevOps, Data, Product và Design tại thị trường Việt Nam.
+Việc xịn cho Software Engineer tại thị trường Việt Nam.
 
 **👉🏼 Tìm việc ngay tại [đây](https://swejob.netlify.app/)**.
 
