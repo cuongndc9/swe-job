@@ -17,7 +17,7 @@ Tổng hợp việc làm Lập trình viên tại Việt Nam - **Miễn phí, Nh
 
 ## 🖼️ Giao diện
 
-![Giao diện SWE Jobs VN](docs/minh-hoa-2.jpg)
+![Giao diện SWE Jobs VN](2.jpg)
 
 ---
 
